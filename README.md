@@ -11,8 +11,10 @@ This project demonstrates an advanced data analytics process applied to a survey
 
 **Project Files:**
 
-Athena Softworks Solutions.pdf
+Athena Softworks Solutions.pdf:
+
 This document contains the comprehensive analysis and conclusions derived from the data analysis. The insights are based on the dataset provided in "Athena_survey_data.csv."
 
-Code for Game Selection
+Code for Game Selection:
+
 This notebook offers a detailed walkthrough of the data analysis process. It includes the application of advanced analytical techniques such as factor analysis, principal component analysis, and K-means clustering to understand consumer behavior and preferences of the game.
